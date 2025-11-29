@@ -10,7 +10,7 @@ pip install torch torchvision pillow tkinter matplotlib kagglehub
 
 │── Human_Behavior_Recognition.ipynb          # Training script (dataset loading, preprocessing, training, evaluation)
 
-│── predict_single_image.py # Tkinter tool for selecting an image + showing prediction & confidence
+│── single_image_predict.py # Tkinter tool for selecting an image + showing prediction & confidence
 
 
 └── stanford40_resnet18.pth  # Trained model (or download link below)
